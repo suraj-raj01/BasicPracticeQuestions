@@ -7,5 +7,7 @@ public class Main {
         System.out.print("Enter the number of rows: ");
         int row = scanner.nextInt();
         Rhombus.RhombusPattern(row);
+        HollowRhombus hollowRhombus = new HollowRhombus();
+        hollowRhombus.Hollow_Rhombus(row);
     }
 }
