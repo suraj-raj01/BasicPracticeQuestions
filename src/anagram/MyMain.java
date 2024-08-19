@@ -1,10 +1,14 @@
 package anagram;
+import java.util.Scanner;
 
 public class MyMain {
     public static void main(String[] args) {
-    String string1 = "abcd";
-    String string2 = "dcba";
-    Anagram anagram = new Anagram();
-    System.out.println(anagram.isAnagram(string1, string2));
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the first String : ");
+        String string1 = scanner.nextLine();
+        System.out.println("Enter the second String : ");
+        String string2 = scanner.nextLine();
+        Anagram anagram = new Anagram();
+        anagram.isAnagram(string1, string2);
     }
 }

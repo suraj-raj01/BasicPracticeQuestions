@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3498f62-cded-408f-8ad6-1fe46a8533df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/patterns/butterfly/ButterflyShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/butterfly/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/diamond/DiamondPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/diamond/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/pyramid/HalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/pyramid/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/pyramid/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/rhombus/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/rhombus/Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/squarehollow/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/squarehollow/SquareHollow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/triangle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/triangle/PalindromeTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/triangle/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/anagram/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anagram/Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/anagram/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anagram/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/check_palindrome/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/check_palindrome/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/check_palindrome/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/check_palindrome/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/combine_array/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/combine_array/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/combine_array/MyUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/combine_array/MyUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/peackelement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/peackelement/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/peackelement/PeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/peackelement/PeakElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replacechar/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replacechar/Insert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replacechar/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replacechar/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replacechar/Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replacechar/Replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swap_pair/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swap_pair/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swap_pair/SwapPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swap_pair/SwapPair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/togglestring/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/togglestring/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/togglestring/ToggleString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/togglestring/ToggleString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "suraj-raj01"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;suraj-raj01&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/suraj-raj01/StringBased.git",
-    "accountId": "df3ba460-e300-4a3f-89cc-f81a82ceea46"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/suraj-raj01/StringBased.git&quot;,
+    &quot;accountId&quot;: &quot;df3ba460-e300-4a3f-89cc-f81a82ceea46&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -72,34 +45,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Insert.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MyMain.executor": "Run",
-    "Application.SquareHollow.executor": "Run",
-    "Application.anagram.MyMain.executor": "Run",
-    "Application.check_palindrome.MyMain.executor": "Run",
-    "Application.patterns.Main.executor": "Run",
-    "Application.patterns.butterfly.Main.executor": "Run",
-    "Application.patterns.pyramid.Main.executor": "Run",
-    "Application.patterns.rhombus.Main.executor": "Run",
-    "Application.patterns.triangle.Main.executor": "Run",
-    "Application.replacechar.MyMain.executor": "Run",
-    "Application.togglestring.MyMain.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Insert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareHollow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.anagram.MyMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.check_palindrome.MyMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patterns.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patterns.butterfly.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patterns.hollowrectangle.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patterns.pyramid.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patterns.rhombus.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patterns.triangle.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.replacechar.MyMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.togglestring.MyMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.patterns.pyramid.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.diamond.Main" />
+}</component>
+  <component name="RunManager" selected="Application.togglestring.MyMain">
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anagram.MyMain" />
       <module name="StringBased" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.diamond.*" />
+          <option name="PATTERN" value="anagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_palindrome.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="check_palindrome.MyMain" />
+      <module name="StringBased" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="check_palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,19 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patterns.pyramid.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pyramid.Main" />
-      <module name="StringBased" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patterns.pyramid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="patterns.rhombus.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.rhombus.Main" />
       <module name="StringBased" />
@@ -146,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patterns.triangle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.triangle.Main" />
+    <configuration name="togglestring.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="togglestring.MyMain" />
       <module name="StringBased" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.triangle.*" />
+          <option name="PATTERN" value="togglestring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.patterns.pyramid.Main" />
-        <item itemvalue="Application.patterns.butterfly.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.togglestring.MyMain" />
+        <item itemvalue="Application.check_palindrome.MyMain" />
+        <item itemvalue="Application.MyMain" />
         <item itemvalue="Application.patterns.rhombus.Main" />
-        <item itemvalue="Application.patterns.triangle.Main" />
+        <item itemvalue="Application.patterns.butterfly.Main" />
       </list>
     </recent_temporary>
   </component>
