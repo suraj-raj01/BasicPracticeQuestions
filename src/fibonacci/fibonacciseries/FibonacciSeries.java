@@ -1,4 +1,4 @@
-package fibonacci;
+package fibonacci.fibonacciseries;
 
 public class FibonacciSeries {
     public static void fibonacciSeries(int a, int b, int n){
