@@ -14,7 +14,7 @@ public class Palindrome {
         return response;
     }
     // logic of check number is palindrome or not !
-    public boolean isPalindromInteger(int n){
+    public boolean isPalindromeInteger(int n){
         int rev=0;
         int temp = n;
         boolean response = false;

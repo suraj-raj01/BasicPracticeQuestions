@@ -12,7 +12,7 @@ public class MyMain {
         System.out.print("Enter the Integer : ");
         int integer = scanner.nextInt();
         Palindrome palindrome1 = new Palindrome();
-        System.out.println("palindrome = " + palindrome1.isPalindromInteger(integer));
+        System.out.println("palindrome = " + palindrome1.isPalindromeInteger(integer));
     }
 }
 
