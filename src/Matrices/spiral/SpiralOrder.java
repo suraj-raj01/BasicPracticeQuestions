@@ -1,4 +1,4 @@
-package Matrices;
+package Matrices.spiral;
 
 public class SpiralOrder {
     public static void spiralOrder(int[][] matrices,int row, int col){

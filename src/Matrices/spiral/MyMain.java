@@ -1,4 +1,4 @@
-package Matrices;
+package Matrices.spiral;
 import java.util.Scanner;
 
 public class MyMain {
