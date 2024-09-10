@@ -18,7 +18,7 @@ public class DayOfTheWeek {
                 nameOfDay = "Wednesday";
                 break;
             case 4:
-                nameOfDay = "Thrusday";
+                nameOfDay = "Thursday";
                 break;
             case 5:
                 nameOfDay = "Friday";
